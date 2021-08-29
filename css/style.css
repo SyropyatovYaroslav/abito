@@ -105,7 +105,8 @@ body {
     line-height: 19px;   
     color: #256EEB;
     margin-top: 12px;
-    margin-bottom: 5px;  
+    margin-bottom: 5px; 
+    max-width: 217px; 
  }
  .card-heder {
      display: flex;
@@ -166,6 +167,8 @@ body {
  .footer-link {
      color: inherit;
      text-decoration: none;
+     margin-bottom: 16px;
      display: inline-block;
      margin-bottom: 5px;
  }
+ 
